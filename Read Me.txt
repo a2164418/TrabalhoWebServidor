@@ -1,0 +1,6 @@
+instruções para iniciar
+1.Baixe o Xampp
+2.coloque a pasta trabalho1 dentro da pasta htdoc do xampp localizada em C:\xampp\htdocs
+3.Abra o xammp control panel
+4.inicialize o modulo Apache.
+5.coloque esse link em um browser web: localhost/trabalho1.index.php
